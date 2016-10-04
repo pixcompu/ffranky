@@ -18,9 +18,6 @@ require_once SERVER_APPLICATION_FOLDER . '/Core/Plain/helpers.php';
 /**
  * Importing User Helper
  */
-require_once SERVER_APPLICATION_FOLDER . '/Util/Helper/error.php';
-require_once SERVER_APPLICATION_FOLDER . '/Util/Helper/log.php';
-require_once SERVER_APPLICATION_FOLDER . '/Util/Helper/response.php';
 require_once SERVER_APPLICATION_FOLDER . '/Util/Helper/string.php';
 
 

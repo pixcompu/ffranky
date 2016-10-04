@@ -3,7 +3,7 @@
  * There is a diference beetwen server and client, because client manages the navigator route
  * while server manages the file route internally in the file system
  */
-define('PAGE_ROOT_FOLDER_NAME', 'pixframework');
+define('PAGE_ROOT_FOLDER_NAME', 'mvc-template');
 
 /**
  * Root file routes, the BACKEND is based on this routes
